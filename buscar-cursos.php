@@ -1,4 +1,6 @@
+#!/usr/bin/env php
 <?php
+// #!/usr/bin/env php Informa que esse arquivo será um executavel do composer
 require 'vendor/autoload.php';
 
 use Cemim\BuscadorCursos\BuscadorDeCursos;
